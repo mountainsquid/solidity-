@@ -1,0 +1,24 @@
+Date: Jan 04 2024 
+What: Solidity 
+Learning material: https://www.youtube.com/watch?v=jcgfQEbptdo
+
+=========================
+Learning solidity notes 
+=========================
+
+01. write function, public, requires paying gas fee
+02. read function free, write function costs money 
+03. there is constructor() in solidity 
+04. use remix IDE to compile SOL (solidity coat)    
+05. there's public keyword in solidity but what does it mean?
+06. what is a state variablae in solidity?  
+07. to start a smart contract you type in pragma solidity ^0.8.0; 
+08. state variable = saved to the blockchain 
+09. local variable = exist inside the function (doesn't exit outside of it?) 
+10. uint is a variable data type
+11. pure is a keyword in solidity 
+12. uint = unsigned variable, can't be -1, -2 etc  
+13. uint256 = how many bytes ... ? 
+14. uint is literally the same as uint256 
+15. int public hello = "hello world"; (this is a code in solidity, feels good man) 
+16. struct, what the fuck is it lol 
